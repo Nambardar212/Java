@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trees/BST/BST.iml" filepath="$PROJECT_DIR$/Trees/BST/BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/Trees/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist/CircularLinkedList/CircularLinkedList.iml" filepath="$PROJECT_DIR$/Linkedlist/CircularLinkedList/CircularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstBatch.iml" filepath="$PROJECT_DIR$/FirstBatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionAndBacktracing/RecursionAndBacktracing.iml" filepath="$PROJECT_DIR$/RecursionAndBacktracing/RecursionAndBacktracing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist/SingleyLinkedList/SingleyLinkedList.iml" filepath="$PROJECT_DIR$/Linkedlist/SingleyLinkedList/SingleyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String.ques/String.ques.iml" filepath="$PROJECT_DIR$/String.ques/String.ques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+    </modules>
+  </component>
+</project>
